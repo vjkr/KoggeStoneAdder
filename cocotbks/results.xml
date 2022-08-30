@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1661845227" />
+    <testcase name="koggetb" classname="koggetb" file="/workspace/KoggeStoneAdder/cocotbks/koggetb.py" lineno="5" time="0.0010194778442382812" sim_time_ns="2.001" ratio_time="1962.7694817586528" />
+  </testsuite>
+</testsuites>
