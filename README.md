@@ -10,3 +10,13 @@ Description: Probelm with assert statement, await and signals, indentations. See
 ![image](https://user-images.githubusercontent.com/16399079/187376191-099bde0c-c951-450e-a7e7-27ff7948a734.png)
 
 
+# Procedure to run vyoma
+
+Open Gitpod
+
+Select repository
+
+enter command ```source vyoma.sh ```. Select Y for installing python
+
+run make file to observe results
+
