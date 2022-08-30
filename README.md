@@ -20,3 +20,5 @@ enter command ```source vyoma.sh ```. Select Y for installing python
 
 run make file to observe results
 
+# Creating gitpod environment to run vyoma uptick pro
+Add vyoma.sh file and run!
